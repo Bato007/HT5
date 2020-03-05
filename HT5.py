@@ -13,7 +13,7 @@ iOperation = 1
 
 # Para calcular el promedio y desviación estandar
 allTimes = []
-elementNumber = 200.0
+elementNumber = 25.0
 totalTime = 0.0
 
 # Valores Estadisticos
