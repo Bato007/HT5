@@ -2,6 +2,10 @@ import random
 import simpy
 import math
 
+# Brandon Hernández 1376
+# Fecha: 4 de marzo de 2020
+# HT5.py
+
 # Para modificar las caracteristicas del simulador
 unitTime = 1
 capacityRam = 100
